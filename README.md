@@ -138,10 +138,11 @@ Response
 ## Evidencia de funcionamiento
 
 ### Registro de pago (POST)
-![POST Payment](screenshots/swagger_post_payment.png)
+![POST Payment](screenshots/prueba_1.JPG)
+![POST Payment](screenshots/prueba_2.JPG)
 
 ### Consulta de pagos (GET)
-![GET Payments](screenshots/swagger_get_payments.png)
-
+![GET Payments](screenshots/prueba_3.JPG)
+![GET Payments](screenshots/prueba_4.JPG)
 ### Datos persistidos en base de datos
-![Database](screenshots/database_payments.png)
+![Database](screenshots/pagos.JPG)
